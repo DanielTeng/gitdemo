@@ -2,4 +2,4 @@ Hello, Git.
 Nice to meet you.
 Bye-Bye.
 See you.
-My name is Daniel Teng.
+Call me Daniel, please.
